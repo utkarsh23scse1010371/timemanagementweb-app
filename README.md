@@ -101,6 +101,8 @@ TimeManagementSystem
 │
 ├── pom.xml                         # Maven configuration
 └── README.md                       # Project documentation
+![structure](https://github.com/user-attachments/assets/2dacbaa1-2e2b-45f4-91cd-a18e420df401)
+
 How to Use
 Login: Use admin as the username and admin123 as the password (default credentials).
 Add a Task: Enter the task name and due date to add a new task.
